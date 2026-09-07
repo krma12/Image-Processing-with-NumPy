@@ -1,9 +1,6 @@
 # Image Processing with NumPy
 
-Proyecto de práctica para introducirme a la ciencia de datos con Python.
-
-Incluye ejercicios básicos de NumPy (arrays, dimensiones, shape, operaciones),
-manipulación de matrices, y análisis de una imagen usando arrays de NumPy.
+A space dedicated to the hands-on learning of NumPy, multidimensional array manipulation, and basic image analysis using Python and Jupyter Notebooks. This repository contains interactive notebooks designed to explore the fundamental concepts of scientific computing and digital image processing.y.
 
 ## Contenido
 
