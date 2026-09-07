@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Subrepo de ejercicio (ya tiene su propio git, fork independiente)
+numpy/
+
+# Carpeta vacia sin uso
+github/
+
+# Cache de Python
+__pycache__/
+*.pyc
